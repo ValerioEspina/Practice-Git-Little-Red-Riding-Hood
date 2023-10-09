@@ -1,0 +1,4 @@
+@import './reset-style.css';
+@import './header-style.css';
+@import './footer-style.css';
+body { background-color: grey; }
